@@ -1,0 +1,9 @@
+.normal-video{
+    width: 100%;
+    background-color: #3177df;
+    object-fit: contain;
+    border: none;
+    height: 100vh;
+    position: relative;
+    z-index: -1;
+}

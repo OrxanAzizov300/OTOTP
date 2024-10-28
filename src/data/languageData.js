@@ -1,0 +1,73 @@
+export const turkicLanguagesClassData = [
+    {
+      id: 1,
+      lessonName: 'Türk dillərinin tarixi',
+      teacherName: 'Orxan Məmmədov',
+      description: 'Türk dillərinin yaranması və tarixi inkişafı.',
+      image: '/images/turkic-languages-lesson1.jpg',
+    },
+    {
+      id: 2,
+      lessonName: 'Azərbaycan dili',
+      teacherName: 'Fəridə İsmayılova',
+      description: 'Azərbaycan dilinin tarixi və müasir inkişafı.',
+      image: '/images/turkic-languages-lesson2.jpg',
+    },
+    {
+      id: 3,
+      lessonName: 'Qırğız dili',
+      teacherName: 'Namiq Səfərov',
+      description: 'Qırğız dilinin xüsusiyyətləri və qrammatikası.',
+      image: '/images/turkic-languages-lesson3.jpg',
+    },
+    {
+      id: 4,
+      lessonName: 'Özbək dili',
+      teacherName: 'Zəhra Hüseynova',
+      description: 'Özbək dilinin qrammatik xüsusiyyətləri.',
+      image: '/images/turkic-languages-lesson4.jpg',
+    },
+    {
+      id: 5,
+      lessonName: 'Türkmən dili',
+      teacherName: 'Leyla Həsənova',
+      description: 'Türkmən dilinin tarixi və lüğət tərkibi.',
+      image: '/images/turkic-languages-lesson5.jpg',
+    },
+    {
+      id: 6,
+      lessonName: 'Qazax dili',
+      teacherName: 'Elçin Babayev',
+      description: 'Qazax dilinin qrammatik strukturu və danışıq dili.',
+      image: '/images/turkic-languages-lesson6.jpg',
+    },
+    {
+      id: 7,
+      lessonName: 'Tatar dili',
+      teacherName: 'Aytən Abbasova',
+      description: 'Tatar dilinin öyrənilməsi və inkişafı.',
+      image: '/images/turkic-languages-lesson7.jpg',
+    },
+    {
+      id: 8,
+      lessonName: 'Uygur dili',
+      teacherName: 'Murad Əhmədov',
+      description: 'Uygur dilinin tarixi və dil xüsusiyyətləri.',
+      image: '/images/turkic-languages-lesson8.jpg',
+    },
+    {
+      id: 9,
+      lessonName: 'Başqırd dili',
+      teacherName: 'Gülnarə Məmmədova',
+      description: 'Başqırd dilinin özünəməxsusluğu və qrammatikası.',
+      image: '/images/turkic-languages-lesson9.jpg',
+    },
+    {
+      id: 10,
+      lessonName: 'Türkiyə türkcəsi',
+      teacherName: 'Şahin Qurbanov',
+      description: 'Türkiyə türkcəsinin əsas qrammatikası və danışıq qaydaları.',
+      image: '/images/turkic-languages-lesson10.jpg',
+    },
+  ];
+  
