@@ -39,11 +39,11 @@ const Home = () => {
   return (
     <div>
       <div className='border-none w-full'>
-        <video ref={videoRef} className='normal-video w-full ' autoPlay muted loop={false} src="/src/assets/ototp_video.mp4"></video>
+        <video ref={videoRef} className='normal-video w-full ' autoPlay muted loop={false} src="/public/ototp_video.mp4"></video>
       </div>
       <div className='container mx-auto px-4 sm:px-6 md:px-8'>
         <h1 data-aos="fade-up">Hello, this text will move up</h1>
-        <img src="/src/assets/560x315-abstract-ice-water-free-website-background-image.jpg" alt="" data-aos="fade-up" />
+        <img src="/public/560x315-abstract-ice-water-free-website-background-image.jpg" alt="" data-aos="fade-up" />
       </div>
     </div>
 

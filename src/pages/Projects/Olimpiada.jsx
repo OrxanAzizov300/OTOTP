@@ -50,7 +50,7 @@ const Olimpiada = () => {
                 Mərasimdə elm və təhsil nazirinin müavini Firudin Qurbanov, Bakı Şəhəri üzrə Təhsil İdarəsinin müdiri Mehriban Vəliyeva, Azərbaycan Milli Elmlər Akademiyasının (AMEA) prezidenti İsa Həbibbəyli, millət vəkilləri, Türkiyə, Qazaxıstan, Özbəkistan, Qırğızıstan respublikalarının ölkəmizdəki səfirləri, ümumi təhsil müəssisələrinin direktorları, şagirdlər, müəllimlər və digər qonaqlar iştirak ediblər.</p>
             </div>
             <div className="lg:w-1/2 w-full flex justify-around">
-              <img src="/src/assets/eller_sekil.jfif" alt="" style={{ width: "60%", borderRadius: "10px" }} data-aos="fade-left"/>
+              <img src="/public/eller_sekil.jfif" alt="" style={{ width: "60%", borderRadius: "10px" }} data-aos="fade-left"/>
             </div>
           </div>
           <div className="bg-blue-500 w-full h-1 mt-8"></div>
@@ -60,7 +60,7 @@ const Olimpiada = () => {
       <div className="container">
         <div className="flex justify-center flex-col lg:flex-row gap-16 mb-20 mt-0" data-aos="fade-up">
           <div className="lg:w-1/2 w-full">
-            <img src="/src/assets/turan_bayraq.jfif" alt="" />
+            <img src="/public/turan_bayraq.jfif" alt="" />
           </div>
           <div className="lg:w-1/2 w-full">
             <p className="font-bold text-lg">“Çırpınırdın, Qara dəniz”  kompozisiyası ilə başlayan tədbirdə Ortaq Türk Dünyası Olimpiadası barədə hazırlanmış videoçarx nümayiş olunub.
